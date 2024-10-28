@@ -1,4 +1,7 @@
-# Vy Huynh Capstone Project ePortfolio
+---
+title: "Vy Huynh Capstone Project ePortfolio"
+layout: default
+---
 
 ## Welcome to my GitHub Pages
 
