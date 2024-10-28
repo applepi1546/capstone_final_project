@@ -1,4 +1,4 @@
-## Vy Huynh Capstone Project ePortfolio
+# Vy Huynh Capstone Project ePortfolio
 
 ## Welcome to my GitHub Pages
 
