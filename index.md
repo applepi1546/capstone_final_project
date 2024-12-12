@@ -2,7 +2,8 @@
 title: "Vy Huynh Project ePortfolio"
 ---
 
-![Languages](https://img.shields.io/badge/Languages-blue)
+![Languages](https://img.shields.io/badge/Languages-blue)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 <div align="center">
 <h3>Artifact One: Software Design and Engineering</h3>
