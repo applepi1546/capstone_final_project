@@ -2,8 +2,10 @@
 title: "Vy Huynh Project ePortfolio"
 ---
 
-![Languages](https://img.shields.io/badge/Languages-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Languages-blue?style=for-the-badge" alt="Languages">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</div>
 
 
 <div align="center">
