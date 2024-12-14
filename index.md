@@ -1,36 +1,130 @@
----
-title: "Vy Huynh ePortfolio"
----
-
-![Languages](https://img.shields.io/badge/Languages-blue?style=for-the-badge)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ![Databases](https://img.shields.io/badge/Databases-blue?style=for-the-badge)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-<div align="justify">
-<h3 style="text-align:center;">Professional Self-Assessment</h3>
-<p>I have been learning computer science since my sophomore year of high school. The first class that I took was a basic Java programming class, where I thoroughly enjoyed the challenges and learning process of the class. One of the most indispensable skills that I have learned throughout this program is the ability to code in other programming languages like C++ or Python. Java was the first programming language that I learned, so I tend to stick with it. However, after learning Python and C++ I am now able to diversify my skill and choose the best programming language depending on the jobs. I also thoroughly enjoyed learning mobile app development. It’s something that I have never thought about learning in my spare time because I never wanted to be an application developer, but I still thoroughly enjoy learning about the applications. It will be a useful skill for me in the future to have experience with Android Studio. Finally, the databases is a really nice concept to learn in the program because plenty of different applications require using a database, so learning SQL is very nice. It’s also an extra bonus to be able to learn MongoDB, as not all applications use SQL. The skill I will demonstrate will help with my career plan, as all jobs require developers to be flexible and program in multiple different languages. Demonstrating that I can use Android Studio and build an application will interest jobs as they know I have been exposed to Android Studio. Finally, MongoDB is a very popular database that some company uses beside.  Using python and MongoDB contribute to my goal of being a data analysis. I always wanted to be something related to data for my job, so working on python, which is a common programming language that a lot of data analysis use. While MongoDB is a popular database that some companies use and is good to know and learn. 
-</p>
-<h3 style="text-align:center;">Code Review</h3>
- <iframe width="800" height="500" src="https://www.youtube.com/embed/Aj3ZXD58txM/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-  
-<h3 style="text-align:center;">Artifact One: Software Design and Engineering</h3>
-<p><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20one/original" title="Original Enhancement">Original Enhancement</a></p>
-<p><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20one/enhancement" title="Updated Enhancement">Updated Enhancement</a></p>
-
-
-  <p>The artifact that I started the first enhancement with was my clock project from CS210. In the clock project, the user is asked to input a time such as 23:00:12, the program will then return the user the time in military time, and AM/PM time. The user will then be able to add 1 hour, add 1 min, or 1 second to the clock, in which the clock will return the new time in AM/PM and military time. I selected this project as part of my portfolio because I felt it was a very fun project to code, and it was also one of the first projects that I coded in. So I knew that my code was not polished and had countless issues and edge cases that went unchanged and unaccounted for.  My plan for enhancement for this project is first rewrite the program in python instead of its original language of python. Next, I would like to make the clock run by itself instead of it not running. The user would still be able to add 1 hour, 1 min, or 1 second to the clock, and it won’t stop the clock but instead keep it running. The user will also have the ability to manually input how many hours, minutes, and seconds they would like to change the clock by, instead of just adding 1 hour, 1 minute, and 1 second each time. First, I will study and fully understand the working of the C++ file beforehand. After understanding how my code works, I'll figure out how to get a live running clock on python. Next I will convert all the code that is C++ and convert them to python code. Finally, I will add the last extra function of the code, which allows the user to choose to manually enter the number of hour/minute/second they would like to change the clock by. All these improvements overall improve the experience of the clock as it allows for automations where users aren’t expected to manually input the time, and it allows for more freedom as users can also enter custom hours they would like to change the clock by. 
-</p>
-  <h3 style="text-align:center;">Artifact Two: Algorithms and Data Structure  </h3>
-  <p><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20two/original" title="Original Enhancement">Original Enhancement</a></p>
-<p><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20two/enhancement" title="Updated Enhancement">Updated Enhancement</a></p>
-
-  <p>The second artifact I have selected will be my Android Studio Project from CS 360. For this class, I built an Inventory Manager, this is an app that requires a user’s username and password for login. After logging in, the user will be able to see their inventory list with all the items they have, as well as the total count of each item. Users can add, delete, quickly change the quantity of the item based on their choice. As well as overall delete their account entirely if they decided to. The goal of enhancement for this project is first checking if a username is a valid email. Then checking to make sure the password is a strong password that is at least 8 characters and also contains a capital letters and characters. Next is working on the interior of the application by adding a function to sort the table inside the application by name or quantity. This will make it easier for users to see which item is running low without scrolling or searching. Finally, I will add a search button that allows user to search for any item, this helps if there is a mass number of items and the user is looking for a specific item. I would say that I did meet the course outcome goal that I made during module one, my course outcome goal for this enhancement was “Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)” and “Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.” I would say I met both by first creating and sorting and searching algorithm, which was part of the course outcome. Furthermore, I also added a security feature which helps to migrate security flaws and make the overall applications more secure. 
-</p>
- <h3 style="text-align:center;"> Artifact Three: Databases  </h3>
-   <p><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20three/original" title="Original Enhancement">Original Enhancement</a></p>
-<p><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20three/enhancement" title="Updated Enhancement">Updated Enhancement</a></p>
-
-<p>The last artifact that I will be working on is my MongoDB dashboard project.  It’s an animal shelter dashboard project that uses MongoDB, python, and HTML. The project uses a database that is provided which has many types of information like animal type, breed, age, sex, and more. All this information is then used to build a dashboard where users can search and query for all sorts of different data. My enhancement plan for this project is to make it more user-friendly and legible while cleaning up the unnecessary data. A problem that I see with this project that can be enhanced and improved upon is that right now the column are named after the MongoDB column, such as ‘outcome_type’ or ‘date_of_birth’. All of these should be renamed to a better-looking name. Next, I would like to a filter for the animal type. This means instead of manually typing in dog or cat or other, I can just have a dropdown filter that allows the user to just select the animal type. Another concern I have with the project is that right now the user credential is just hard-coded into the python file as plain text, which makes it really risky and easy to crack. So, I would like to hide the credentials instead of allowing a credential to be unencrypted. Finally, I would like to overall clean up the dashboard as right now, there is a lot of information I that consider unnecessary on the dashboard right now, such as location latitude and longitude. I would like to hide this information and make it easier for the user to only see the necessary information. The changes I want to improve the dashboard by cleaning it up and making it more tidy, therefore allowing for easier navigation. The main benefit of all these changes is that it allows users using the interface to have an easier time navigating the dashboard. They will also have the ability to filter animal type so that instead of just being able to filter by ‘dog’ or ‘cat’, they can filter it by ‘dog’ AND ‘cat’. I would say I did meet the original plan that I set out for this artifact, the goal for this project was clean up the dashboard, prettify the dashboard, hide the credentials, and finally add a checkbox for animal's type. I was able to hit all my objectives, so I would say it was a success. In terms of objectives for this course, I would say I have met all my course object that I was set out to do for this class.
-</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vy Huynh ePortfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        section {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .badge {
+            display: inline-block;
+            margin: 0.2rem;
+        }
+        iframe {
+            display: block;
+            margin: 1rem auto;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Vy Huynh ePortfolio</h1>
+    </header>
+    <section>
+        <h2>Languages</h2>
+        <img class="badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+        <img class="badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+        <img class="badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    </section>
+    <section>
+        <h2>Databases</h2>
+        <img class="badge" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+        <img class="badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    </section>
+    <section>
+        <h2>Professional Self-Assessment</h2>
+        <p>I began learning computer science during my sophomore year of high school with a foundational Java programming class. This sparked my interest and passion for problem-solving and coding. Since then, I’ve diversified my programming skills, mastering Python and C++ alongside Java. This versatility enables me to choose the best language for a given project.</p>
+        <p>Mobile app development, though not an initial focus, became an exciting challenge during my journey. Learning Android Studio provided valuable insights and skills that I plan to leverage in future projects. Additionally, I gained essential database knowledge with SQL and MongoDB, equipping me to handle modern application requirements efficiently.</p>
+        <p>My skills align with my career goal of becoming a data analyst. Python's prominence in data analysis and MongoDB's popularity in enterprise applications ensure that I am well-prepared for this path. By continuously learning and adapting, I aim to meet industry demands and excel in my field.</p>
+    </section>
+    <section>
+        <h2>Code Review</h2>
+        <iframe width="800" height="500" src="https://www.youtube.com/embed/Aj3ZXD58txM/" allowfullscreen></iframe>
+    </section>
+    <section>
+        <h2>Artifact One: Software Design and Engineering</h2>
+        <p><strong>Project Links:</strong></p>
+        <ul>
+            <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20one/original">Original Enhancement</a></li>
+            <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20one/enhancement">Updated Enhancement</a></li>
+        </ul>
+        <h3>Description</h3>
+        <p>This project, originally created in C++ during CS210, involved designing a clock program that converts military time to AM/PM format. It also allowed users to increment the clock by one hour, minute, or second.</p>
+        <h3>Enhancements</h3>
+        <ul>
+            <li>Rewrote the project in Python.</li>
+            <li>Added a live, self-running clock feature.</li>
+            <li>Allowed users to manually input the hours, minutes, and seconds to adjust.</li>
+        </ul>
+        <p>These enhancements automated the clock functionality, making it more user-friendly and interactive. This project demonstrates my ability to refactor and optimize code for better usability.</p>
+    </section>
+    <section>
+        <h2>Artifact Two: Algorithms and Data Structures</h2>
+        <p><strong>Project Links:</strong></p>
+        <ul>
+            <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20two/original">Original Enhancement</a></li>
+            <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20two/enhancement">Updated Enhancement</a></li>
+        </ul>
+        <h3>Description</h3>
+        <p>This project, built using Android Studio during CS360, is an inventory manager app. It allows users to log in, manage their inventory, and perform CRUD operations.</p>
+        <h3>Enhancements</h3>
+        <ul>
+            <li>Validated usernames as valid email addresses.</li>
+            <li>Ensured passwords meet strong security criteria (e.g., length, capital letters, special characters).</li>
+            <li>Added sorting functionality for inventory items by name or quantity.</li>
+            <li>Implemented a search feature to locate specific items quickly.</li>
+        </ul>
+        <p>These enhancements improve app security, usability, and functionality, demonstrating my ability to design secure and efficient algorithms.</p>
+    </section>
+    <section>
+        <h2>Artifact Three: Databases</h2>
+        <p><strong>Project Links:</strong></p>
+        <ul>
+            <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20three/original">Original Enhancement</a></li>
+            <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20three/enhancement">Updated Enhancement</a></li>
+        </ul>
+        <h3>Description</h3>
+        <p>This project involves building a dashboard for an animal shelter using MongoDB, Python, and HTML. The dashboard displays data such as animal type, breed, and age, allowing users to query the database.</p>
+        <h3>Enhancements</h3>
+        <ul>
+            <li>Renamed columns to improve readability.</li>
+            <li>Added a dropdown filter for selecting animal types.</li>
+            <li>Secured credentials by encrypting them instead of storing them in plain text.</li>
+            <li>Cleaned up unnecessary data fields, like latitude and longitude, for better usability.</li>
+        </ul>
+        <p>These changes enhance the dashboard’s functionality, security, and user experience, aligning with my goal of creating efficient and secure database-driven applications.</p>
+    </section>
+</body>
+</html>
