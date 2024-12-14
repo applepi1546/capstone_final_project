@@ -83,6 +83,7 @@ title: "Vy Huynh ePortfolio"
         <ul>
             <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20three/original">Original Enhancement</a></li>
             <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20three/enhancement">Updated Enhancement</a></li>
+            <li><a href="https://applepi1546.github.io/capstone_final_project/artifact-one.html" title="Artifact Details">Learn More About Artifact One</li></p>
         </ul>
         <h3>Description</h3>
         <p>This project involves building a dashboard for an animal shelter using MongoDB, Python, and HTML. The dashboard displays data such as animal type, breed, and age, allowing users to query the database.</p>
