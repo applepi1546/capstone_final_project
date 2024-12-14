@@ -8,7 +8,7 @@ title: "Vy Huynh ePortfolio"
 
 <div align="justify">
 <h3 style="text-align:center;">Code Review</h3>
- <iframe width="800" height="500" src="https://youtu.be/Aj3ZXD58txM/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+ <iframe width="800" height="500" src="https://www.youtube.com/watch?v=Aj3ZXD58txM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
   
 <h3>Artifact One: Software Design and Engineering</h3>
