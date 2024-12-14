@@ -2,11 +2,6 @@
 title: "Vy Huynh ePortfolio"
 ---
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 20px;
-        padding: 0;
-    }
     section {
         margin-bottom: 40px;
         padding: 20px;
