@@ -1,7 +1,30 @@
 ---
 title: "Vy Huynh ePortfolio"
 ---
-</head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        padding: 0;
+    }
+    section {
+        margin-bottom: 40px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+    }
+    h2 {
+        color: #333;
+    }
+    .badge {
+        margin: 5px;
+    }
+    iframe {
+        border: none;
+    }
+</style>
+
 <body>
     <section>
         <h2>Languages</h2>
