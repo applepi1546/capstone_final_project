@@ -43,6 +43,8 @@ title: "Vy Huynh ePortfolio"
         <iframe width="800" height="500" src="https://www.youtube.com/embed/Aj3ZXD58txM/" allowfullscreen></iframe>
     </section>
     <section>
+        	<a href="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" target="_blank">
+    <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Scenic Image" style="width: 800px; height: auto;">
         <h2>Artifact One: Software Design and Engineering</h2>
         <p><strong>Project Links:</strong></p>
         <ul>
@@ -61,6 +63,8 @@ title: "Vy Huynh ePortfolio"
         <p>These enhancements automated the clock functionality, making it more user-friendly and interactive. This project demonstrates my ability to refactor and optimize code for better usability.</p>
     </section>
     <section>
+            	<a href="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" target="_blank">
+    <img src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Scenic Image" style="width: 800px; height: auto;">
         <h2>Artifact Two: Algorithms and Data Structures</h2>
         <p><strong>Project Links:</strong></p>
         <ul>
@@ -80,6 +84,9 @@ title: "Vy Huynh ePortfolio"
         <p>These enhancements improve app security, usability, and functionality, demonstrating my ability to design secure and efficient algorithms.</p>
     </section>
     <section>
+    	<a href="https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" target="_blank">
+    <img src="https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Scenic Image" style="width: 800px; height: auto;">
+</a>
         <h2>Artifact Three: Databases</h2>
         <p><strong>Project Links:</strong></p>
         <ul>
