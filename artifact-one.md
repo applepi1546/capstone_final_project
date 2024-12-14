@@ -1,5 +1,5 @@
 ---
-title: Artifact One: Software Design and Engineering
+title: Artifact One Software Design and Engineering
 layout: default
 ---
 
