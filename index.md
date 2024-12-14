@@ -48,7 +48,7 @@ title: "Vy Huynh ePortfolio"
         <ul>
             <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20one/original">Original Enhancement</a></li>
             <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20one/enhancement">Updated Enhancement</a></li>
-            <li><a href="https://applepi1546.github.io/capstone_final_project/artifact-one" title="Artifact Details">Learn More About Artifact One</li></p>
+            <li><a href="https://applepi1546.github.io/capstone_final_project/artifact-one" title="Artifact Details">Learn More About Artifact One</li>
         </ul>
         <h3>Description</h3>
         <p>This project, originally created in C++ during CS210, involved designing a clock program that converts military time to AM/PM format. It also allowed users to increment the clock by one hour, minute, or second.</p>
@@ -66,7 +66,7 @@ title: "Vy Huynh ePortfolio"
         <ul>
             <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20two/original">Original Enhancement</a></li>
             <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20two/enhancement">Updated Enhancement</a></li>            
-            <li><a href="https://applepi1546.github.io/capstone_final_project/artifact-two" title="Artifact Details">Learn More About Artifact Two</li></p>
+            <li><a href="https://applepi1546.github.io/capstone_final_project/artifact-two" title="Artifact Details">Learn More About Artifact Two</li>
         </ul>
         <h3>Description</h3>
         <p>This project, built using Android Studio during CS360, is an inventory manager app. It allows users to log in, manage their inventory, and perform CRUD operations.</p>
@@ -85,7 +85,7 @@ title: "Vy Huynh ePortfolio"
         <ul>
             <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20three/original">Original Enhancement</a></li>
             <li><a href="https://github.com/applepi1546/capstone_final_project/tree/main/artifact%20three/enhancement">Updated Enhancement</a></li>
-            <li><a href="https://applepi1546.github.io/capstone_final_project/artifact-three" title="Artifact Details">Learn More About Artifact Three</li></p>
+            <li><a href="https://applepi1546.github.io/capstone_final_project/artifact-three" title="Artifact Details">Learn More About Artifact Three</li>
         </ul>
         <h3>Description</h3>
         <p>This project involves building a dashboard for an animal shelter using MongoDB, Python, and HTML. The dashboard displays data such as animal type, breed, and age, allowing users to query the database.</p>
