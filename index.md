@@ -44,7 +44,7 @@ title: "Vy Huynh ePortfolio"
     </section>
     <section>
         	<a href="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" target="_blank">
-    <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Scenic Image" style="width: 800px; height: auto;">
+    <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Scenic Image" style="width: 800px; height: auto;"></a>
         <h2>Artifact One: Software Design and Engineering</h2>
         <p><strong>Project Links:</strong></p>
         <ul>
@@ -64,7 +64,7 @@ title: "Vy Huynh ePortfolio"
     </section>
     <section>
             	<a href="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" target="_blank">
-    <img src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Scenic Image" style="width: 800px; height: auto;">
+    <img src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Scenic Image" style="width: 800px; height: auto;"></a>
         <h2>Artifact Two: Algorithms and Data Structures</h2>
         <p><strong>Project Links:</strong></p>
         <ul>
