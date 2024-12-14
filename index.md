@@ -1,54 +1,8 @@
 ---
 title: "Vy Huynh ePortfolio"
 ---
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding: 1rem 0;
-            text-align: center;
-        }
-        section {
-            max-width: 900px;
-            margin: 2rem auto;
-            padding: 1rem;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .badge {
-            display: inline-block;
-            margin: 0.2rem;
-        }
-        iframe {
-            display: block;
-            margin: 1rem auto;
-            border: none;
-        }
-    </style>
 </head>
 <body>
-    <header>
-        <h1>Vy Huynh ePortfolio</h1>
-    </header>
     <section>
         <h2>Languages</h2>
         <img class="badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
